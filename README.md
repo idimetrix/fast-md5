@@ -21,7 +21,7 @@ npm install fast-md5
 md5(message)
 ~~~
 
-  * `message` -- `String`, `Buffer`, `Array` or `Uint8Array`
+  * `message` -- `String`
   * returns `String`
 
 
