@@ -1,7 +1,7 @@
 {
   "name": "fast-md5",
   "description": "Super fast JavaScript MD5 implementation",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "Dmitry Selikhov",
     "email": "selikhov.dmitrey@gmail.com",

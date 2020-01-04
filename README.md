@@ -30,24 +30,13 @@ md5(message)
 ~~~ javascript
 var md5 = require('fast-md5');
 
-console.log(md5('message'));
+console.log(md5('Expo 2020'));
 ~~~
 
 This will print the following
 
 ~~~
-78e731027d8fd50ed642340b7c9a63b3
-~~~
-
-It supports buffers, too
-
-~~~ javascript
-var fs = require('fs');
-var md5 = require('md5');
-
-fs.readFile('example.txt', function(err, buf) {
-  console.log(md5(buf));
-});
+a299078805331edb24ac298ba9f6364b
 ~~~
 
 ## Contribution
